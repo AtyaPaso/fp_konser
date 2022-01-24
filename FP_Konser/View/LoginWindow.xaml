@@ -1,0 +1,41 @@
+﻿<Window x:Class="FP_Konser.View.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FP_Konser.View"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="600" Width="800">
+    <Grid Background="#509DC8">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Column="0" Text="Ngonser" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="65" FontWeight="Bold" FontFamily="Baloo Thambi"/>
+        <Grid Grid.Column="1" Width="363" Height="437" Background="White">
+            <StackPanel Margin="40" HorizontalAlignment="Center">
+                <StackPanel Width="140">
+                    <TextBlock Text="Welcome..." FontSize="14" FontFamily="Baloo Tammudu 2"/>
+                    <TextBlock Text="Log In" FontWeight="Bold" FontSize="48" FontFamily="Baloo Thambi"/>
+                </StackPanel>
+                
+                <StackPanel>
+                    <TextBlock Text="Username" FontSize="14" FontFamily="Baloo Tammudu 2"/>
+                    <Border Width="278" Height="32" CornerRadius="10" BorderThickness="0" Background="#CFE7F4">
+                        <TextBox x:Name="txtUsername" Background="Transparent" BorderThickness="0" Margin="10,8,10,0"/>
+                    </Border>
+                </StackPanel>
+                <StackPanel Margin="0,30,0,0">
+                    <TextBlock Text="Passowrd" FontSize="14" FontFamily="Baloo Tammudu 2"/>
+                    <Border Width="278" Height="32" CornerRadius="10" BorderThickness="0" Background="#CFE7F4">
+                        <PasswordBox x:Name="txtPassword" Background="Transparent" BorderThickness="0" Margin="10,8,10,0"/>
+                    </Border>
+                </StackPanel>
+                <Border BorderThickness="0" CornerRadius="10" Background="#509DC8" Width="132" Height="29" Margin="0,50,0,0">
+                    <Button x:Name="btnLogin" Background="Transparent" BorderThickness="0" Content="LOGIN" FontWeight="Bold" FontFamily="Baloo Thambi" FontSize="20" Click="btnLogin_Click"/>
+
+                </Border>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

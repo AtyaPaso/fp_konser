@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assets\icons\calendar.png" />
+    <None Remove="assets\icons\chart.png" />
+    <None Remove="assets\icons\enter.png" />
+    <None Remove="assets\icons\exit.png" />
+    <None Remove="assets\icons\jam.png" />
+    <None Remove="assets\icons\location.png" />
+    <None Remove="assets\icons\location2.png" />
+    <None Remove="assets\icons\logout.png" />
+    <None Remove="assets\icons\search.png" />
+    <None Remove="assets\icons\user.png" />
+    <None Remove="assets\icons\userbox.png" />
+    <None Remove="assets\img\1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\icons\calendar.png" />
+    <Resource Include="assets\icons\chart.png" />
+    <Resource Include="assets\icons\enter.png" />
+    <Resource Include="assets\icons\exit.png" />
+    <Resource Include="assets\icons\jam.png" />
+    <Resource Include="assets\icons\location.png" />
+    <Resource Include="assets\icons\location2.png" />
+    <Resource Include="assets\icons\logout.png" />
+    <Resource Include="assets\icons\search.png" />
+    <Resource Include="assets\icons\user.png" />
+    <Resource Include="assets\icons\userbox.png" />
+    <Resource Include="assets\img\1.png" />
+  </ItemGroup>
+
+</Project>

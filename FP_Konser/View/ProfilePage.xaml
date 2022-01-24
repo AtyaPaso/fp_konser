@@ -1,0 +1,60 @@
+﻿<Page x:Class="FP_Konser.View.ProfilePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FP_Konser.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ProfilePage">
+
+    <Grid Background="#CFE7F4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="30">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <DockPanel Grid.Row="0">
+                <TextBlock Text="Nama Lengkap" FontWeight="bold" FontSize="24" Width="250" HorizontalAlignment="Left"/>
+                <TextBlock Text=":" FontWeight="bold" FontSize="24" Width="30" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <TextBlock x:Name="txtNamaLengkap" Text="John Doe" FontWeight="bold" FontSize="24" Width="250" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            </DockPanel>
+            <Border Grid.Row="1" Height="1" BorderThickness="5" BorderBrush="Black"/>
+            <DockPanel Grid.Row="2">
+                <TextBlock Text="Username" FontWeight="bold" FontSize="24" Width="250" HorizontalAlignment="Left"/>
+                <TextBlock Text=":" FontWeight="bold" FontSize="24" Width="30" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <TextBlock x:Name="txtUsername" Text="John Doe" FontWeight="bold" FontSize="24" Width="250" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            </DockPanel>
+            <Border Grid.Row="3" Height="1" BorderThickness="5" BorderBrush="Black"/>
+            <DockPanel Grid.Row="4">
+                <TextBlock Text="Jenis Kelamin" FontWeight="bold" FontSize="24" Width="250" HorizontalAlignment="Left"/>
+                <TextBlock Text=":" FontWeight="bold" FontSize="24" Width="30" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <TextBlock x:Name="txtJenisKelamin" Text="John Doe" FontWeight="bold" FontSize="24" Width="250" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            </DockPanel>
+            <Border Grid.Row="5" Height="1" BorderThickness="5" BorderBrush="Black"/>
+            <DockPanel Grid.Row="6">
+                <TextBlock Text="No Telpon" FontWeight="bold" FontSize="24" Width="250" HorizontalAlignment="Left"/>
+                <TextBlock Text=":" FontWeight="bold" FontSize="24" Width="30" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <TextBlock x:Name="txtNoTelp" Text="John Doe" FontWeight="bold" FontSize="24" Width="250" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            </DockPanel>
+            <Border Grid.Row="7" Height="1" BorderThickness="5" BorderBrush="Black"/>
+            <DockPanel Grid.Row="8">
+                <TextBlock Text="Password" FontWeight="bold" FontSize="24" Width="250" HorizontalAlignment="Left"/>
+                <TextBlock Text=":" FontWeight="bold" FontSize="24" Width="30" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <TextBlock x:Name="txtPassword" Text="********" FontWeight="bold" FontSize="24" Width="250" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            </DockPanel>
+        </Grid>
+        <Image x:Name="btnExit" Source="/assets/icons/exit.png" HorizontalAlignment="Left" Margin="20,390,0,10" Width="38" MouseLeftButtonDown="btnExit_MouseLeftButtonDown" Grid.RowSpan="2"/>
+    </Grid>
+</Page>

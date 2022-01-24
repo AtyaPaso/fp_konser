@@ -1,0 +1,67 @@
+﻿<Page x:Class="FP_Konser.View.DetailTiketPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FP_Konser.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="DetailTiketPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="323"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" x:Name="txtNamaTiket" Text="Maliq &amp; D'essentials X Pamungkas Concert" FontSize="24" FontWeight="Bold" FontFamily="Baloo Thambi" TextWrapping="Wrap" Padding="10"/>
+            <Image Grid.Row="1" x:Name="imgBannerTiket" Source="/assets/img/1.png" Width="433" Height="246" />
+            <Image x:Name="iconExit" Grid.Row="2" Source="/assets/icons/exit.png" HorizontalAlignment="Left" Margin="20 -5 0 0" Width="38" Height="47" MouseLeftButtonDown="iconExit_MouseLeftButtonDown"/>
+        </Grid>
+        <StackPanel Grid.Column="1" Background="#CFE7F4">
+            <TextBlock Text="Informasi Tiket" FontSize="24" FontWeight="Bold" FontFamily="Baloo Thambi" HorizontalAlignment="Center" Margin="0 10 0 0"/>
+            <DockPanel Width="159">
+                <Image Source="/assets/icons/location2.png" Width="17" Height="25"/>
+                <TextBlock x:Name="txtLokasi" Text="Ska Co Ex Pekanbaru" VerticalAlignment="Center" Margin="10 0 0 0"/>
+            </DockPanel>
+            <DockPanel Width="159" Margin="0 10 0 0">
+                <Image Source="/assets/icons/enter.png" Width="17"/>
+                <TextBlock x:Name="txtOpengate" Text="17.00 WIB" VerticalAlignment="Center" Margin="10 0 0 0"/>
+            </DockPanel>
+            <DockPanel Width="159" Margin="0 10 0 0">
+                <Image Source="/assets/icons/jam.png" Width="17"/>
+                <TextBlock x:Name="txtJam" Text="18.00 - 21.00 WIB" VerticalAlignment="Center" Margin="10 0 0 0"/>
+            </DockPanel>
+            <DockPanel Width="159" Margin="0 10 0 0">
+                <Image Source="/assets/icons/calendar.png" Width="17"/>
+                <TextBlock x:Name="txtTanggal" Text="30 Januari 2022" VerticalAlignment="Center" Margin="10 0 0 0"/>
+            </DockPanel>
+            <StackPanel HorizontalAlignment="Center" Margin="0 20 0 0" Width="280">
+                <TextBlock Text="Cara Penukaran E-Tiket" FontSize="24" FontWeight="Bold" FontFamily="Baloo Thambi"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="20"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Column="0" Grid.Row="0" Text="1" HorizontalAlignment="Center"/>
+                    <TextBlock Grid.Column="0" Grid.Row="1" Text="2" HorizontalAlignment="Center"/>
+                    <TextBlock Grid.Column="1" Grid.Row="0" FontSize="13" FontFamily="Baloo Tammudu 2" Text="Tunjukkan e-tiket yang telah diterima melalui halaman 'My Order' di aplikasi kepada petugas di lapangan untuk cek kode." TextWrapping="Wrap"/>
+                    <TextBlock Grid.Column="1" Grid.Row="1" FontSize="13" FontFamily="Baloo Tammudu 2" Text="Tunjukkan e-tiket yang telah diterima melalui halaman 'My Order' di aplikasi kepada petugas di lapangan untuk cek kode." TextWrapping="Wrap"/>
+                </Grid>
+                <Border x:Name="btnPesan" Width="154" Height="37" Background="#509DC8" CornerRadius="10" MouseLeftButtonDown="btnPesan_MouseLeftButtonDown">
+                    <TextBlock Text="Pesan" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="24" FontWeight="Bold" FontFamily="Baloo Thambi"/>
+                </Border>
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

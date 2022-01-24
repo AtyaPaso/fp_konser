@@ -1,0 +1,84 @@
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\FP_Konser.exe
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\FP_Konser.deps.json
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\FP_Konser.runtimeconfig.json
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\FP_Konser.runtimeconfig.dev.json
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\FP_Konser.dll
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\FP_Konser.pdb
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.csproj.AssemblyReference.cache
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser_MarkupCompile.cache
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser_MarkupCompile.lref
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.g.resources
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.AssemblyInfoInputs.cache
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.AssemblyInfo.cs
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.csproj.CoreCompileInputs.cache
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.dll
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.pdb
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.genruntimeconfig.cache
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\LoginWindow.g.cs
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\LoginWindow.baml
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\ParentWindow.g.cs
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\ParentWindow.baml
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\HomePage.g.cs
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\HomePage.baml
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\DetailTiketPage.g.cs
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\DetailTiketPage.baml
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\PembayaranPage.g.cs
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\PembayaranPage.baml
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\BayarPage.g.cs
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\OrderPage.g.cs
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\BayarPage.baml
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\OrderPage.baml
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\DetailOrderPage.g.cs
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\DetailOrderPage.baml
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\ProfilePage.g.cs
+D:\Persons\Atya\Semester 3\Pemograman Lanjut\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\ProfilePage.baml
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\FP_Konser.exe
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\FP_Konser.deps.json
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\FP_Konser.runtimeconfig.json
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\FP_Konser.runtimeconfig.dev.json
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\FP_Konser.dll
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\FP_Konser.pdb
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.csprojAssemblyReference.cache
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\BayarPage.g.cs
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\DetailOrderPage.g.cs
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\DetailTiketPage.g.cs
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\HomePage.g.cs
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\LoginWindow.g.cs
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\OrderPage.g.cs
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\ParentWindow.g.cs
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\PembayaranPage.g.cs
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\ProfilePage.g.cs
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\App.g.cs
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser_MarkupCompile.cache
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser_MarkupCompile.lref
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\BayarPage.baml
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\DetailOrderPage.baml
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\DetailTiketPage.baml
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\HomePage.baml
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\LoginWindow.baml
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\OrderPage.baml
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\ParentWindow.baml
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\PembayaranPage.baml
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\View\ProfilePage.baml
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.g.resources
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.AssemblyInfoInputs.cache
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.AssemblyInfo.cs
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.csproj.CoreCompileInputs.cache
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.csproj.CopyComplete
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.dll
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.pdb
+E:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\FP_Konser\FP_Konser\FP_Konser\obj\Debug\netcoreapp3.1\FP_Konser.genruntimeconfig.cache
